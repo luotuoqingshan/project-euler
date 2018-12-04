@@ -1,0 +1,849 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+B	27.cpp	/^vector<int> B = get_primes(1000);$/;"	v
+BigInteger	55.cpp	/^	BigInteger(){$/;"	f	struct:BigInteger
+BigInteger	55.cpp	/^struct BigInteger{$/;"	s	file:
+C	365.cpp	/^int C(int n,int m,int p){$/;"	f
+Dp	74.cpp	/^int Dp(int n){$/;"	f
+G	122.cpp	/^vector<vector<int> > G[maxn];$/;"	v
+INF	313.cpp	/^const int INF = 0x3f3f3f3f;$/;"	v
+INF	345.cpp	/^const int INF = 0x3f3f3f3f;$/;"	v
+LL	100.cpp	/^typedef long long LL;$/;"	t	file:
+LL	125.cpp	/^typedef long long LL;$/;"	t	file:
+LL	129.cpp	/^typedef long long LL;$/;"	t	file:
+LL	158.cpp	/^typedef long long LL;$/;"	t	file:
+LL	191.cpp	/^typedef long long LL;$/;"	t	file:
+LL	221.cpp	/^typedef long long LL;$/;"	t	file:
+LL	231.cpp	/^typedef long long LL;$/;"	t	file:
+LL	271.cpp	/^typedef long long LL;$/;"	t	file:
+LL	321.cpp	/^typedef long long LL;$/;"	t	file:
+LL	365.cpp	/^typedef long long LL;$/;"	t	file:
+LL	401.cpp	/^typedef long long LL;$/;"	t	file:
+LL	439.cpp	/^typedef long long LL;$/;"	t	file:
+LL	48.cpp	/^typedef long long LL;$/;"	t	file:
+LL	501.cpp	/^typedef long long LL;$/;"	t	file:
+LL	548.cpp	/^typedef long long LL;$/;"	t	file:
+LL	603.cpp	/^typedef long long LL;$/;"	t	file:
+LL	606.cpp	/^typedef long long LL;$/;"	t	file:
+LL	608.cpp	/^typedef long long LL;$/;"	t	file:
+LL	609.cpp	/^typedef long long LL;$/;"	t	file:
+LL	611.cpp	/^typedef long long LL;$/;"	t	file:
+LL	621.cpp	/^typedef long long LL;$/;"	t	file:
+LL	64.cpp	/^typedef long long LL;$/;"	t	file:
+LL	P10.cpp	/^typedef long long LL;$/;"	t	file:
+LL	PE.h	/^typedef long long LL;$/;"	t
+M	365.cpp	/^const LL M = 1e9;$/;"	v
+M	548.cpp	/^const LL M = 1e16;$/;"	v
+MAXN	281/src/Main.java	/^    static final BigInteger MAXN = BigInteger.valueOf(1000000000000000L);$/;"	f	class:Main
+MUL	PE.h	/^LL MUL(LL x,LL y,LL m){$/;"	f
+Main	119/src/Main.java	/^public class Main {$/;"	c
+Main	169/src/Main.java	/^public class Main {$/;"	c
+Main	243/src/Main.java	/^public class Main {$/;"	c
+Main	281/src/Main.java	/^public class Main {$/;"	c
+Main	56/src/Main.java	/^public class Main {$/;"	c
+Main	57/src/Main.java	/^public class Main {$/;"	c
+Main	63/src/Main.java	/^public class Main {$/;"	c
+Main	65/src/Main.java	/^public class Main {$/;"	c
+Main	80/src/Main.java	/^public class Main {$/;"	c
+Main	97/src/Main.java	/^public class Main {$/;"	c
+Main	p271/src/Main.java	/^public class Main {$/;"	c
+Main	src/Main.java	/^public class Main {$/;"	c
+Miu	439.cpp	/^int Miu(long long n){$/;"	f
+N	135.cpp	/^const int N = 5e7;$/;"	v
+N	223.cpp	/^const int N = 7322400;$/;"	v
+N	271.cpp	/^LL N = 13082761331670030LL;$/;"	v
+N	347.cpp	/^const int N = 1e7;$/;"	v
+N	365.cpp	/^const LL N = 1e18;$/;"	v
+N	390.cpp	/^const long long N = 1e10 * 2;$/;"	v
+N	439.cpp	/^const int N = 1e8 + 5;$/;"	v
+N	45.cpp	/^const int N = 1e6 + 5;$/;"	v
+N	451.cpp	/^const int N = 2e7;$/;"	v
+N	548.cpp	/^const int N = 100000000;$/;"	v
+N	593.cpp	/^const int N = 30000;$/;"	v
+N	608.cpp	/^const int N = 1e8 + 5;$/;"	v
+N	P501/P501/main.cpp	/^const int N=110000;$/;"	v
+P	44.cpp	/^int P[10000];$/;"	v
+P	500.cpp	/^typedef pair<LL,pair<LL,vector<pair<LL,LL> > > > P;$/;"	t	file:
+P10	10.py	/^def P10(n):$/;"	f
+POW	PE.h	/^LL POW(LL x,LL y,LL m){$/;"	f
+Problem	221.py	/^class Problem():$/;"	c
+Q	500.cpp	/^priority_queue<P> Q;$/;"	v
+R	619.cpp	/^int R[maxn];$/;"	v
+S	252.cpp	/^long long S[maxn * 2];int T[maxn * 2];$/;"	v
+Sigma	439.cpp	/^int Sigma(long long n){$/;"	f
+Sigma	608.cpp	/^int Sigma(long long x){$/;"	f
+Sum	501.cpp	/^LL Sum(LL n){$/;"	f
+Sum	P10.cpp	/^LL Sum(LL n){$/;"	f
+T	252.cpp	/^long long S[maxn * 2];int T[maxn * 2];$/;"	v
+T	P501/P501/main.cpp	/^int T;$/;"	v
+X	607.cpp	/^db X;$/;"	v
+__init__	221.py	/^    def __init__(self):$/;"	m	class:Problem
+_factorize	221.py	/^    def _factorize(self, n):$/;"	m	class:Problem
+_get_all_divisors	221.py	/^    def _get_all_divisors(self, n):$/;"	m	class:Problem
+_sieve	221.py	/^    def _sieve(self):$/;"	m	class:Problem
+a	107.cpp	/^int a[40][40];$/;"	v
+a	124.cpp	/^node a[100005];$/;"	v
+a	201.cpp	/^int a[105];$/;"	v
+a	243.cpp	/^int a[15] = {2,3,5,7,11,13,17,19,23,29,31,37,41,43,47};$/;"	v
+a	265.cpp	/^int a[40];$/;"	v
+a	271.cpp	/^int a[14] = {2,3,5,7,11,13,17,19,23,29,31,37,41,43};$/;"	v
+a	315.cpp	/^int a[11] = {6,2,5,5,4,5,6,4,7,6,0};$/;"	v
+a	32.cpp	/^int a[9];$/;"	v
+a	324.cpp	/^	int a[512][512];$/;"	m	struct:matrix	file:
+a	345.cpp	/^int a[15][15];$/;"	v
+a	365.cpp	/^int a[10],b[10];$/;"	v
+a	40.cpp	/^int a[maxn];$/;"	v
+a	42.cpp	/^int a[10000];$/;"	v
+a	43.cpp	/^int a[10] = {0,1,2,3,4,5,6,7,8,9};$/;"	v
+a	45.cpp	/^long long a[N];$/;"	v
+a	54.cpp	/^	card a[5];$/;"	m	struct:s	file:
+a	548.cpp	/^int a[20];$/;"	v
+a	55.cpp	/^	int a[100],tot;$/;"	m	struct:BigInteger	file:
+a	59.cpp	/^int a[10000],tot;$/;"	v
+a	61.cpp	/^int a[10];$/;"	v
+a	612.cpp	/^int a[20],tot = 0;$/;"	v
+a	622.cpp	/^long long a[100];$/;"	v
+a	67.cpp	/^int a[105][105];$/;"	v
+a	68.cpp	/^int a[15];$/;"	v
+a	69.cpp	/^int a[maxn];$/;"	v
+a	70.cpp	/^int a[maxn];$/;"	v
+a	72.cpp	/^int a[maxn];$/;"	v
+a	81.cpp	/^int a[85][85];$/;"	v
+a	82.cpp	/^int a[85][85];$/;"	v
+a	83.cpp	/^int a[85][85];$/;"	v
+a	85.cpp	/^int a[10000];$/;"	v
+add	48.cpp	/^void add(LL &a,LL b){$/;"	f
+ans	119/src/Main.java	/^    static ArrayList<BigInteger> ans = new ArrayList<BigInteger>();$/;"	f	class:Main
+ans	265.cpp	/^long long ans = 0;$/;"	v
+ans	271.cpp	/^long long ans;$/;"	v
+ans	32.cpp	/^map<int,int> ans;$/;"	v
+ans	37.cpp	/^vector<int> ans;$/;"	v
+ans	451.cpp	/^int ans[N + 5];$/;"	v
+ans	493.cpp	/^double ans = 0;$/;"	v
+ans	548.cpp	/^LL ans ;$/;"	v
+ans	608.cpp	/^int ans;$/;"	v
+ans	66.cpp	/^int ans[1005];$/;"	v
+ans	68.cpp	/^long long ans = 0;$/;"	v
+ans	71.cpp	/^int ans[maxn];$/;"	v
+answers	271.cpp	/^vector<LL> answers;$/;"	v
+arr	501.cpp	/^LL arr[maxn];$/;"	v
+arr	606.cpp	/^LL arr[maxn];$/;"	v
+arr	P10.cpp	/^LL arr[maxn];$/;"	v
+ask	P501/P501/main.cpp	/^bool ask(int n,int m)$/;"	f
+b	315.cpp	/^int b[11][11];$/;"	v
+b	365.cpp	/^int a[10],b[10];$/;"	v
+b	45.cpp	/^map<long long,bool> b,c;$/;"	v
+b	82.cpp	/^int b[85][85];$/;"	v
+bfs	387.cpp	/^LL bfs(){$/;"	f
+bfs	500.cpp	/^void bfs(){$/;"	f
+bit	619.cpp	/^set<int> bit[maxn];$/;"	v
+build	593.cpp	/^void build(int o,int l,int r){$/;"	f
+c	158.cpp	/^LL c[27][27];$/;"	v
+c	307.cpp	/^db c(int n,int k){$/;"	f
+c	315.cpp	/^bitset<7> c[10];$/;"	v
+c	323.cpp	/^long long c[40][40];$/;"	v
+c	365.cpp	/^vector<pair<int,int> > c;$/;"	v
+c	45.cpp	/^map<long long,bool> b,c;$/;"	v
+c	493.cpp	/^double c[75][25];$/;"	v
+c	54.cpp	/^	int n,c;$/;"	m	struct:card	file:
+c	82.cpp	/^int c[85][85];$/;"	v
+cal	112.cpp	/^long long cal(int len){$/;"	f
+cal	114.cpp	/^long long cal(int m,int n){$/;"	f
+cal	116.cpp	/^long long cal(int n){$/;"	f
+cal	117.cpp	/^long long cal(int n){$/;"	f
+cal	120.cpp	/^int cal(int a){$/;"	f
+cal	125.cpp	/^int cal(int x,int type){$/;"	f
+cal	148.cpp	/^long long cal(int x){$/;"	f
+cal	158.cpp	/^LL cal(int n){$/;"	f
+cal	178.cpp	/^long long cal(int len){$/;"	f
+cal	231.cpp	/^LL cal(LL l,LL r,LL p){$/;"	f
+cal	281/src/Main.java	/^    static BigInteger cal(int m,int n){$/;"	m	class:Main
+cal	30.cpp	/^bool cal(int n){$/;"	f
+cal	313.cpp	/^void cal(int n){$/;"	f
+cal	365.cpp	/^int cal(LL n,LL m,int p){$/;"	f
+cal	39.cpp	/^int cal(int p){$/;"	f
+cal	40.cpp	/^int cal(int n){$/;"	f
+cal	401.cpp	/^LL cal(LL n){$/;"	f
+cal	429.cpp	/^LL cal(LL x,LL n){$/;"	f
+cal	44.cpp	/^int cal(int n){$/;"	f
+cal	451.cpp	/^int cal(int x){$/;"	f
+cal	47.cpp	/^int cal(int x){$/;"	f
+cal	501.cpp	/^LL cal(LL n){$/;"	f
+cal	504.cpp	/^int cal(int m){$/;"	f
+cal	548.cpp	/^LL cal(LL num){$/;"	f
+cal	549.cpp	/^long long cal(int n){$/;"	f
+cal	600.cpp	/^long long cal(int n){$/;"	f
+cal	606.cpp	/^LL cal(LL n){$/;"	f
+cal	607.cpp	/^db cal(db rad){$/;"	f
+cal	609.cpp	/^long long cal(int x){$/;"	f
+cal	611.cpp	/^LL cal(LL n){$/;"	f
+cal	612.cpp	/^void cal(long long n){$/;"	f
+cal	619.cpp	/^int cal(int l,int r){$/;"	f
+cal	62.cpp	/^long long cal(long long n){$/;"	f
+cal	64.cpp	/^LL cal(LL n){$/;"	f
+cal	92.cpp	/^int cal(int n){$/;"	f
+cal	src/Main.java	/^    static BigInteger cal(int n){$/;"	m	class:Main
+caltimes	608.cpp	/^void caltimes(){$/;"	f
+card	54.cpp	/^	card(){}$/;"	f	struct:card
+card	54.cpp	/^	card(int n,int c):n(n),c(c){}$/;"	f	struct:card
+card	54.cpp	/^struct card{$/;"	s	file:
+check	145.cpp	/^bool check(int n){$/;"	f
+check	225.cpp	/^bool check(int x){$/;"	f
+check	34.cpp	/^bool check(int x){$/;"	f
+check	35.cpp	/^bool check(int num){$/;"	f
+check	36.cpp	/^bool check(int num){$/;"	f
+check	37.cpp	/^bool check(long long x){$/;"	f
+check	38.cpp	/^bool check(int x){$/;"	f
+check	38.cpp	/^bool check(int x,int n){$/;"	f
+check	41.cpp	/^int check(int a[],int n){$/;"	f
+check	43.cpp	/^bool check(int i,int j,int k,int d){$/;"	f
+check	55.cpp	/^	bool check(){$/;"	f	struct:BigInteger
+check	60.cpp	/^bool check(int a,int b){$/;"	f
+check	70.cpp	/^bool check(int n){$/;"	f
+check	86.cpp	/^int check(int m){$/;"	f
+check	96.cpp	/^bool check(int x,int y){$/;"	f
+cmp	52.cpp	/^bool cmp(int x,int y){$/;"	f
+cmp	548.cpp	/^bool cmp(int a,int b){$/;"	f
+cnt	121.cpp	/^int cnt[maxn];$/;"	v
+cnt	135.cpp	/^int cnt[maxn];$/;"	v
+cnt	179.cpp	/^int cnt[maxn];$/;"	v
+cnt	271.cpp	/^int cnt = 0;$/;"	v
+cnt	400.cpp	/^int cnt[maxn];$/;"	v
+cnt	60a.cpp	/^int cnt;  $/;"	v
+cnt	62.cpp	/^map<long long,long long> cnt;$/;"	v
+d	169/src/Main.java	/^    static int[] d = new int[105];$/;"	f	class:Main
+d	211.cpp	/^long long d[maxn];$/;"	v
+d	221.cpp	/^vector<int> d[maxn];$/;"	v
+d	35.cpp	/^int d[10],tot;$/;"	v
+d	485.cpp	/^int d[maxn];$/;"	v
+d	491.cpp	/^int d[maxn][10];$/;"	v
+d	61.cpp	/^vector<int> d[10][100];$/;"	v
+d	83.cpp	/^int d[85][85];$/;"	v
+d	96.cpp	/^int d[10][10];$/;"	v
+dat	252.cpp	/^point dat[maxn];$/;"	v
+db	307.cpp	/^typedef long double db;$/;"	t	file:
+db	607.cpp	/^typedef long double db;$/;"	t	file:
+dcmp	607.cpp	/^int dcmp(db x){$/;"	f
+dfs	204.cpp	/^void dfs(long long n,int id){$/;"	f
+dfs	265.cpp	/^void dfs(int len,int i,int sum ){$/;"	f
+dfs	271.cpp	/^void dfs(int n,vector<int> G){$/;"	f
+dfs	400.cpp	/^LL dfs(int n,int m){$/;"	f
+dfs	493.cpp	/^void dfs(int n,int left,int color,double m){$/;"	f
+dfs	516.cpp	/^void dfs(int N,LL val){$/;"	f
+dfs	548.cpp	/^void dfs(int i,int n,vector<int> v){$/;"	f
+dfs	608.cpp	/^void dfs(int n,long long mul,int num,long long sub){$/;"	f
+dfs	61.cpp	/^void dfs(vector<int> now,int n){$/;"	f
+dfs	68.cpp	/^void dfs(int n,int *a,bool *vis){$/;"	f
+dfs	96.cpp	/^bool dfs(int x,int y){$/;"	f
+digit	148.cpp	/^int digit[40],tot;$/;"	v
+digit	40.cpp	/^int digit(int x){$/;"	f
+dis	91.cpp	/^int dis(int a,int b,int c,int d){$/;"	f
+divisor	129.cpp	/^vector<int> divisor(int n){$/;"	f
+divisor	347.cpp	/^vector<int> divisor[maxn];$/;"	v
+divisor	619.cpp	/^vector<int> divisor[maxn];$/;"	v
+divisorSum	95.cpp	/^int divisorSum[maxn];$/;"	v
+dp	112.cpp	/^long long dp[105][10];$/;"	v
+dp	114.cpp	/^long long dp[100];$/;"	v
+dp	116.cpp	/^long long dp[55];$/;"	v
+dp	117.cpp	/^long long dp[55];$/;"	v
+dp	122.cpp	/^int dp[maxn];$/;"	v
+dp	148.cpp	/^long long dp[40][2][2][2];\/\/l是否贴着上轮廓线，r是否贴着l的轮廓线，是否出现小于$/;"	v
+dp	162.cpp	/^ll dp[20][2][2][2];$/;"	v
+dp	169/src/Main.java	/^    static long[][] dp = new long[105][2];$/;"	f	class:Main
+dp	178.cpp	/^long long dp[50][10][(1 << 10) + 5];$/;"	v
+dp	181.cpp	/^long long dp[70][70];$/;"	v
+dp	191.cpp	/^LL dp[105][5][2];$/;"	v
+dp	214.cpp	/^int dp[maxn];$/;"	v
+dp	301.cpp	/^int dp[40][2];$/;"	v
+dp	307.cpp	/^db dp[maxn];$/;"	v
+dp	323.cpp	/^long double dp[40];$/;"	v
+dp	345.cpp	/^int dp[20][(1 << 15)];$/;"	v
+dp	371.cpp	/^double dp[1005][2];$/;"	v
+dp	491.cpp	/^long long dp[maxn][15];$/;"	v
+dp	609.cpp	/^int dp[maxn];$/;"	v
+dp	612.cpp	/^long long dp[20][(1 << 10) + 5];$/;"	v
+dp	618.cpp	/^int dp[maxn][5200];$/;"	v
+dp	67.cpp	/^int dp[105][105];$/;"	v
+dp	81.cpp	/^int dp[85][85];$/;"	v
+dp	82.cpp	/^int dp[85][85];$/;"	v
+dp	92.cpp	/^int dp[10000000];$/;"	v
+duipai	608.cpp	/^int duipai(){$/;"	f
+dx	83.cpp	/^int dx[4] = {0,-1,0,1},dy[4] = {1,0,-1,0};$/;"	v
+dy	83.cpp	/^int dx[4] = {0,-1,0,1},dy[4] = {1,0,-1,0};$/;"	v
+eps	607.cpp	/^const db eps = 1e-15;$/;"	v
+f	201.cpp	/^int f[55][500005];$/;"	v
+f	252.cpp	/^int f[maxn][maxn];$/;"	v
+f	31.cpp	/^int f[maxn];$/;"	v
+f	618.cpp	/^int f[25];$/;"	v
+f1	P501/P501/main.cpp	/^bool f1,f2;$/;"	v
+f2	P501/P501/main.cpp	/^bool f1,f2;$/;"	v
+f4	30.cpp	/^int f4(int x){$/;"	f
+fac	281/src/Main.java	/^    static BigInteger fac(int n){$/;"	m	class:Main
+fac	307.cpp	/^db fac[maxn];$/;"	v
+fac	34.cpp	/^int fac[10];$/;"	v
+fac	365.cpp	/^LL fac[5005];$/;"	v
+fac	74.cpp	/^int fac[15];$/;"	v
+flush	54.cpp	/^	bool flush(){$/;"	f	struct:s
+four	54.cpp	/^	int four(){$/;"	f	struct:s
+g	223.cpp	/^vector<int> g[N];$/;"	v
+g	271.cpp	/^vector<int> g[14];$/;"	v
+g	531.cpp	/^long long g(int a,int n,int b,int m){$/;"	f
+g	60.cpp	/^vector<int> g[50005];$/;"	v
+g	60a.cpp	/^vector<int>g[5555];  $/;"	v
+gcd	243.cpp	/^int gcd(int a,int b){$/;"	f
+gcd	281/src/Main.java	/^    static int gcd(int a,int b){$/;"	m	class:Main
+gcd	429.cpp	/^LL gcd(LL a,LL b){$/;"	f
+gcd	504.cpp	/^int gcd(int a,int b){$/;"	f
+gcd	518.cpp	/^int gcd(int a,int b){$/;"	f
+gcd	531.cpp	/^int gcd(int a,int b){$/;"	f
+gcd	601.cpp	/^ll gcd(ll a,ll b){$/;"	f
+gcd	622.cpp	/^long long gcd(long long a,long long b){$/;"	f
+gcd	64.cpp	/^LL gcd(LL a,LL b){$/;"	f
+gcd	73.cpp	/^int gcd(int a,int b){$/;"	f
+gcd	75.cpp	/^int gcd(int a,int b){$/;"	f
+get	60a.cpp	/^long long get(long long a, long long b)  $/;"	f
+get_phi	PE.h	/^vector<int> get_phi(int n){$/;"	f
+get_prime	60a.cpp	/^void get_prime()  $/;"	f
+get_primes	548.cpp	/^void get_primes(){$/;"	f
+get_primes	PE.h	/^vector<int> get_primes(int n){$/;"	f
+getwei	60a.cpp	/^int getwei(long long x)  $/;"	f
+harsh	387.cpp	/^unordered_map<LL,int> harsh,strong,sum;$/;"	v
+i10	603.cpp	/^LL i10 = qpow(10LL,mod - 2);$/;"	v
+i9	603.cpp	/^LL i9 = qpow(9LL,mod - 2);$/;"	v
+id	68.cpp	/^int id[15] = {0,1,2,3,2,4,5,4,6,7,6,8,9,8,1};$/;"	v
+in	252.cpp	/^    void in(){scanf("%d%d",&x,&y);}$/;"	f	struct:point
+in	83.cpp	/^bool in(int x,int y){$/;"	f
+init	193.cpp	/^void init(){$/;"	f
+init	313.cpp	/^void init(){$/;"	f
+init	323.cpp	/^void init(){$/;"	f
+init	336.cpp	/^void init(int n,int m){$/;"	f
+init	347.cpp	/^void init(){$/;"	f
+init	357.cpp	/^void init(){$/;"	f
+init	365.cpp	/^void init(){$/;"	f
+init	42.cpp	/^void init(){$/;"	f
+init	439.cpp	/^void init(){$/;"	f
+init	501.cpp	/^void init(){$/;"	f
+init	504.cpp	/^void init(){$/;"	f
+init	516.cpp	/^void init(){$/;"	f
+init	548.cpp	/^void init(){$/;"	f
+init	549.cpp	/^void init(int n){$/;"	f
+init	55.cpp	/^	void init(int n){$/;"	f	struct:BigInteger
+init	565.cpp	/^void init(){$/;"	f
+init	60.cpp	/^void init(){$/;"	f
+init	601.cpp	/^void init(){$/;"	f
+init	606.cpp	/^void init(){$/;"	f
+init	608.cpp	/^void init(){$/;"	f
+init	609.cpp	/^void init(){$/;"	f
+init	85.cpp	/^void init(){$/;"	f
+init1	60.cpp	/^void init1(){$/;"	f
+inq	548.cpp	/^map<vector<int> ,bool> inq;$/;"	v
+inq	74.cpp	/^bool inq[10 * maxn];$/;"	v
+inq	83.cpp	/^bool inq[85][85];$/;"	v
+inv	365.cpp	/^LL inv[5005];$/;"	v
+inv	381.cpp	/^LL inv(LL a,LL p){$/;"	f
+inv	609.cpp	/^int inv[maxn];$/;"	v
+inv2	608.cpp	/^const int inv2 = (mod + 1) \/ 2;$/;"	v
+is_prime	PE.h	/^bool is_prime(int x){$/;"	f
+is_prime	PE.h	/^bool is_prime(long long x){$/;"	f
+isprime	60.cpp	/^bool isprime(long long a){$/;"	f
+isprime	60a.cpp	/^bool isprime(long long x)  $/;"	f
+itertools	221.py	/^import itertools$/;"	i
+jj	608.cpp	/^const int jj = 200;$/;"	v
+k	307.cpp	/^int k,n;$/;"	v
+k	485.cpp	/^int n,k;$/;"	v
+k	P501/P501/main.cpp	/^long long k;$/;"	v
+lcm	601.cpp	/^ll lcm[40];$/;"	v
+len	609.cpp	/^int len[maxn];$/;"	v
+ll	162.cpp	/^typedef long long ll;$/;"	t	file:
+ll	601.cpp	/^typedef long long ll;$/;"	t	file:
+lson	593.cpp	/^#define lson /;"	d	file:
+lst	549.cpp	/^int lst[maxn];$/;"	v
+m	181.cpp	/^int n,m;$/;"	v
+main	100.cpp	/^int main(){$/;"	f
+main	102.cpp	/^int main(){$/;"	f
+main	107.cpp	/^int main(){$/;"	f
+main	108.cpp	/^int main(){$/;"	f
+main	112.cpp	/^int main(){$/;"	f
+main	114.cpp	/^int main(){$/;"	f
+main	116.cpp	/^int main(){$/;"	f
+main	117.cpp	/^int main(){$/;"	f
+main	119/src/Main.java	/^    static public void main(String[] args){$/;"	m	class:Main
+main	120.cpp	/^int main(){$/;"	f
+main	121.cpp	/^int main(){$/;"	f
+main	122.cpp	/^int main(){$/;"	f
+main	123.cpp	/^int main(){$/;"	f
+main	124.cpp	/^int main(){$/;"	f
+main	125.cpp	/^int main(){$/;"	f
+main	129.cpp	/^int main(){$/;"	f
+main	135.cpp	/^int main(){$/;"	f
+main	145.cpp	/^int main(){$/;"	f
+main	148.cpp	/^int main(){$/;"	f
+main	158.cpp	/^int main(){$/;"	f
+main	162.cpp	/^int main(){$/;"	f
+main	169/src/Main.java	/^    static public void main(String[] args){$/;"	m	class:Main
+main	173.cpp	/^int main(){$/;"	f
+main	178.cpp	/^int main(){$/;"	f
+main	179.cpp	/^int main(){$/;"	f
+main	181.cpp	/^int main(){$/;"	f
+main	191.cpp	/^int main(){$/;"	f
+main	193.cpp	/^int main(){$/;"	f
+main	201.cpp	/^int main(){$/;"	f
+main	204.cpp	/^int main(){$/;"	f
+main	211.cpp	/^int main(){$/;"	f
+main	214.cpp	/^int main(){$/;"	f
+main	221.cpp	/^int main(){$/;"	f
+main	221.py	/^def main():$/;"	f
+main	223.cpp	/^int main(){$/;"	f
+main	225.cpp	/^int main(){$/;"	f
+main	231.cpp	/^int main(){$/;"	f
+main	243.cpp	/^int main(){$/;"	f
+main	243/src/Main.java	/^    static public void main(String[] args){$/;"	m	class:Main
+main	252.cpp	/^int main(){$/;"	f
+main	265.cpp	/^int main(){$/;"	f
+main	27.cpp	/^int main(){$/;"	f
+main	271.cpp	/^int main(){$/;"	f
+main	28.cpp	/^int main(){$/;"	f
+main	281/src/Main.java	/^    static public void main(String[] args){$/;"	m	class:Main
+main	30.cpp	/^int main(){$/;"	f
+main	301.cpp	/^int main(){$/;"	f
+main	307.cpp	/^int main(){$/;"	f
+main	31.cpp	/^int main(){$/;"	f
+main	313.cpp	/^int main(){$/;"	f
+main	315.cpp	/^int main(){$/;"	f
+main	32.cpp	/^int main(){$/;"	f
+main	321.cpp	/^int main(){$/;"	f
+main	323.cpp	/^int main(){$/;"	f
+main	324.cpp	/^int main(){$/;"	f
+main	33.cpp	/^int main(){$/;"	f
+main	336.cpp	/^int main(){$/;"	f
+main	34.cpp	/^int main(){$/;"	f
+main	345.cpp	/^int main(){$/;"	f
+main	346.cpp	/^int main(){$/;"	f
+main	347.cpp	/^int main(){$/;"	f
+main	35.cpp	/^int main(){$/;"	f
+main	357.cpp	/^int main(){$/;"	f
+main	36.cpp	/^int main(){$/;"	f
+main	365.cpp	/^int main(){$/;"	f
+main	37.cpp	/^int main(){$/;"	f
+main	371.cpp	/^int main(){$/;"	f
+main	38.cpp	/^int main(){$/;"	f
+main	381.cpp	/^int main(){$/;"	f
+main	387.cpp	/^int main(){$/;"	f
+main	389.cpp	/^int main(){$/;"	f
+main	39.cpp	/^int main(){$/;"	f
+main	390.cpp	/^int main() {$/;"	f
+main	40.cpp	/^int main(){$/;"	f
+main	400.cpp	/^int main(){$/;"	f
+main	401.cpp	/^int main(){$/;"	f
+main	41.cpp	/^int main(){$/;"	f
+main	42.cpp	/^int main(){$/;"	f
+main	429.cpp	/^int main(){$/;"	f
+main	43.cpp	/^int main(){$/;"	f
+main	439.cpp	/^int main(){$/;"	f
+main	44.cpp	/^int main(){$/;"	f
+main	45.cpp	/^int main(){$/;"	f
+main	451.cpp	/^int main(){$/;"	f
+main	46.cpp	/^int main(){$/;"	f
+main	47.cpp	/^int main(){$/;"	f
+main	48.cpp	/^int main(){$/;"	f
+main	485.cpp	/^int main(){$/;"	f
+main	49.cpp	/^int main(){$/;"	f
+main	491.cpp	/^int main(){$/;"	f
+main	493.cpp	/^int main(){$/;"	f
+main	50.cpp	/^int main(){$/;"	f
+main	500.cpp	/^int main(){$/;"	f
+main	501.cpp	/^int main(){$/;"	f
+main	504.cpp	/^int main(){$/;"	f
+main	509.cpp	/^int main(){$/;"	f
+main	51.cpp	/^int main(){$/;"	f
+main	512.cpp	/^int main(){$/;"	f
+main	516.cpp	/^int main(){$/;"	f
+main	518.cpp	/^int main(){$/;"	f
+main	52.cpp	/^int main(){$/;"	f
+main	53.cpp	/^int main(){$/;"	f
+main	531.cpp	/^int main(){$/;"	f
+main	54.cpp	/^int main(){$/;"	f
+main	548.cpp	/^int main(){$/;"	f
+main	549.cpp	/^int main(){$/;"	f
+main	55.cpp	/^int main(){$/;"	f
+main	56/src/Main.java	/^    public static void main(String args[]){$/;"	m	class:Main
+main	565.cpp	/^int main(){$/;"	f
+main	57/src/Main.java	/^    static public void main(String[] args){$/;"	m	class:Main
+main	58.cpp	/^int main(){$/;"	f
+main	59.cpp	/^int main(){$/;"	f
+main	593.cpp	/^int main(){$/;"	f
+main	59_.cpp	/^int main()  $/;"	f
+main	60.cpp	/^int main(){$/;"	f
+main	600.cpp	/^int main(){$/;"	f
+main	601.cpp	/^int main(){$/;"	f
+main	603.cpp	/^int main(){$/;"	f
+main	605.cpp	/^int main(){$/;"	f
+main	606.cpp	/^int main(){$/;"	f
+main	607.cpp	/^int main(){$/;"	f
+main	608.cpp	/^int main(){$/;"	f
+main	609.cpp	/^int main(){$/;"	f
+main	60a.cpp	/^int main()  $/;"	f
+main	61.cpp	/^int main(){$/;"	f
+main	611.cpp	/^int main(){$/;"	f
+main	612.cpp	/^int main(){$/;"	f
+main	618.cpp	/^int main(){$/;"	f
+main	619.cpp	/^int main(){$/;"	f
+main	62.cpp	/^int main(){$/;"	f
+main	621.cpp	/^int main(){$/;"	f
+main	622.cpp	/^int main(){$/;"	f
+main	63/src/Main.java	/^    static public void main(String[] args){$/;"	m	class:Main
+main	64.cpp	/^int main(){$/;"	f
+main	65/src/Main.java	/^    public static void main(String[] args){$/;"	m	class:Main
+main	66.cpp	/^int main(){$/;"	f
+main	67.cpp	/^int main(){$/;"	f
+main	68.cpp	/^int main(){$/;"	f
+main	69.cpp	/^int main(){$/;"	f
+main	70.cpp	/^int main(){$/;"	f
+main	71.cpp	/^int main(){$/;"	f
+main	72.cpp	/^int main(){$/;"	f
+main	73.cpp	/^int main(){$/;"	f
+main	74.cpp	/^int main(){$/;"	f
+main	75.cpp	/^int main(){$/;"	f
+main	80/src/Main.java	/^    static public void main(String[] args){$/;"	m	class:Main
+main	81.cpp	/^int main(){$/;"	f
+main	82.cpp	/^int main(){$/;"	f
+main	83.cpp	/^int main(){$/;"	f
+main	85.cpp	/^int main(){$/;"	f
+main	86.cpp	/^int main(){$/;"	f
+main	87.cpp	/^int main(){$/;"	f
+main	89.cpp	/^int main(){$/;"	f
+main	91.cpp	/^int main(){$/;"	f
+main	92.cpp	/^int main(){$/;"	f
+main	94.cpp	/^int main(){$/;"	f
+main	95.cpp	/^int main(){$/;"	f
+main	96.cpp	/^int main(){$/;"	f
+main	97/src/Main.java	/^    static public void main(String[] args){$/;"	m	class:Main
+main	99.cpp	/^int main(){$/;"	f
+main	P501/P501/main.cpp	/^int main()$/;"	f
+main	hello.cpp	/^int main(){$/;"	f
+main	p271/src/Main.java	/^    static public void main(String[] args)throws Exception{$/;"	m	class:Main
+main	src/Main.java	/^    public static void main(String[] args){$/;"	m	class:Main
+matrix	324.cpp	/^	matrix(){$/;"	f	struct:matrix
+matrix	324.cpp	/^struct matrix{$/;"	s	file:
+maxn	121.cpp	/^const int maxn = 1e8 + 5;$/;"	v
+maxn	122.cpp	/^const int maxn = 205;$/;"	v
+maxn	135.cpp	/^const int maxn = 5e7 + 5;$/;"	v
+maxn	179.cpp	/^const int maxn = 1e7 + 5;$/;"	v
+maxn	193.cpp	/^const int maxn = (1 << 25) + 5;$/;"	v
+maxn	211.cpp	/^const int maxn = 64000000 + 5;$/;"	v
+maxn	214.cpp	/^const int maxn = 40000000 + 5;$/;"	v
+maxn	221.cpp	/^const int maxn = 1000000 + 5;$/;"	v
+maxn	223.cpp	/^const int maxn = 25000000;$/;"	v
+maxn	243.cpp	/^const int maxn = 1e8 + 5;$/;"	v
+maxn	252.cpp	/^#define maxn /;"	d	file:
+maxn	307.cpp	/^const int maxn = 1e6 + 5;$/;"	v
+maxn	31.cpp	/^const int maxn = 305;$/;"	v
+maxn	313.cpp	/^const int maxn = 1005;$/;"	v
+maxn	347.cpp	/^const int maxn = 1e7 + 5;$/;"	v
+maxn	357.cpp	/^const int maxn = 2e8 + 5;$/;"	v
+maxn	40.cpp	/^const int maxn = 1000000 + 5;$/;"	v
+maxn	400.cpp	/^const int maxn = 1e4 + 5;$/;"	v
+maxn	485.cpp	/^const int maxn = 1e8 + 5;$/;"	v
+maxn	491.cpp	/^const int maxn = 60000;$/;"	v
+maxn	501.cpp	/^const int maxn = 1e8 + 5;$/;"	v
+maxn	509.cpp	/^const int maxn = 105;$/;"	v
+maxn	512.cpp	/^const int maxn = 5e8 + 5;$/;"	v
+maxn	518.cpp	/^const int maxn = 1e8 + 5;$/;"	v
+maxn	53.cpp	/^const int maxn = 1000000;$/;"	v
+maxn	548.cpp	/^const int maxn = N + 5;$/;"	v
+maxn	549.cpp	/^const int maxn = 1e8 + 5;$/;"	v
+maxn	593.cpp	/^const int maxn = 1e7 + 5;$/;"	v
+maxn	60.cpp	/^const int maxn = 1e8 + 5;$/;"	v
+maxn	606.cpp	/^const int maxn = 10000005;$/;"	v
+maxn	609.cpp	/^const int maxn = 1e8 + 5;$/;"	v
+maxn	618.cpp	/^const int maxn = 47005;$/;"	v
+maxn	619.cpp	/^const int maxn = 1234567 + 5;$/;"	v
+maxn	69.cpp	/^const int maxn = 1000005;$/;"	v
+maxn	70.cpp	/^const int maxn = 10000005;$/;"	v
+maxn	71.cpp	/^const int maxn = 1000005;$/;"	v
+maxn	72.cpp	/^const int maxn = 1000005;$/;"	v
+maxn	74.cpp	/^const int maxn = 1e6 + 5;$/;"	v
+maxn	87.cpp	/^const int maxn = 5e7 + 5;$/;"	v
+maxn	95.cpp	/^const int maxn = 1e6 + 5;$/;"	v
+miller_rabin	PE.h	/^bool miller_rabin(LL num){$/;"	f
+miu	439.cpp	/^int miu[N];$/;"	v
+mod	324.cpp	/^const int mod = 1e8 + 7;$/;"	v
+mod	400.cpp	/^const LL mod = 1e18;$/;"	v
+mod	401.cpp	/^const int mod = 1e9;$/;"	v
+mod	429.cpp	/^const LL mod = 1e9 + 9;$/;"	v
+mod	439.cpp	/^const int mod = 1e9;$/;"	v
+mod	48.cpp	/^const LL mod = (LL)1e10;$/;"	v
+mod	565.cpp	/^const int mod = 2017;$/;"	v
+mod	593.cpp	/^const int mod = 1e4 + 7;$/;"	v
+mod	603.cpp	/^const LL mod = 1e9 + 7;$/;"	v
+mod	606.cpp	/^const LL mod = 1000000000;$/;"	v
+mod	608.cpp	/^const int mod = 1e9 + 7;$/;"	v
+mod	609.cpp	/^const int mod = 1e9 + 7;$/;"	v
+mod	612.cpp	/^const long long mod = 1000267129;$/;"	v
+mod	618.cpp	/^const int mod = 1e9;$/;"	v
+mod	619.cpp	/^const int mod = 1e9 + 7;$/;"	v
+mp	125.cpp	/^unordered_map<LL,int> mp;$/;"	v
+mp	221.cpp	/^map<LL,int> mp;$/;"	v
+mp	223.cpp	/^map<pair<int,pair<int,int> > ,int> mp;$/;"	v
+mp	225.cpp	/^#define mp /;"	d	file:
+mp	321.cpp	/^map<pair<LL,LL>,bool> mp;$/;"	v
+mp	346.cpp	/^unordered_map<LL,LL> mp;$/;"	v
+mp	347.cpp	/^map<pair<int,int>,int> mp;$/;"	v
+mp	400.cpp	/^map<pair<int,int>, LL> mp;$/;"	v
+mp	44.cpp	/^map<int,bool> mp;$/;"	v
+mp	501.cpp	/^unordered_map<LL,LL> mp;$/;"	v
+mp	516.cpp	/^unordered_map<LL,bool> mp;$/;"	v
+mp	548.cpp	/^map<vector<int> ,LL> mp;$/;"	v
+mp	606.cpp	/^unordered_map<LL,LL> mp;$/;"	v
+mp	62.cpp	/^map<long long,long long> mp;$/;"	v
+mp	621.cpp	/^unordered_map<LL,int> mp;$/;"	v
+mp	95.cpp	/^map<int,bool> mp;$/;"	v
+mp	P10.cpp	/^unordered_map<LL,LL> mp;$/;"	v
+mu	193.cpp	/^int mu[maxn];$/;"	v
+mu	439.cpp	/^int mu[N];$/;"	v
+mul	439.cpp	/^int mul(LL a,LL b){$/;"	f
+mul	48.cpp	/^LL mul(LL a,LL b){$/;"	f
+mul	606.cpp	/^LL mul(LL a,LL b){$/;"	f
+mul2	608.cpp	/^int mul2(int a,int b){$/;"	f
+n	121.cpp	/^int n;$/;"	v
+n	124.cpp	/^	int n;$/;"	m	struct:node	file:
+n	169/src/Main.java	/^    static BigInteger n;$/;"	f	class:Main
+n	181.cpp	/^int n,m;$/;"	v
+n	252.cpp	/^int n;$/;"	v
+n	265.cpp	/^int n;$/;"	v
+n	307.cpp	/^int k,n;$/;"	v
+n	345.cpp	/^int n;$/;"	v
+n	346.cpp	/^LL n;$/;"	v
+n	387.cpp	/^LL n;$/;"	v
+n	400.cpp	/^int n;$/;"	v
+n	429.cpp	/^LL n;$/;"	v
+n	485.cpp	/^int n,k;$/;"	v
+n	500.cpp	/^int n;$/;"	v
+n	516.cpp	/^LL n;$/;"	v
+n	518.cpp	/^LL n;$/;"	v
+n	54.cpp	/^	int n,c;$/;"	m	struct:card	file:
+n	P501/P501/main.cpp	/^int n;$/;"	v
+node	124.cpp	/^struct node{$/;"	s	file:
+norm	252.cpp	/^    int norm()const{return x*x+y*y;}$/;"	f	struct:point
+now	608.cpp	/^long long now = 1000000000000LL;$/;"	v
+num	608.cpp	/^int num[N];$/;"	v
+nums	75.cpp	/^int nums[1500005];$/;"	v
+ok	357.cpp	/^bool ok[maxn];$/;"	v
+op	55.cpp	/^	void op(){$/;"	f	struct:BigInteger
+operator *	252.cpp	/^    int operator*(const point&a)const{return x*a.y-y*a.x;}$/;"	f	struct:point
+operator *	324.cpp	/^	matrix operator * (matrix b){$/;"	f	struct:matrix
+operator +	252.cpp	/^    point operator+(const point&a)const{return point(x+a.x,y+a.y);}$/;"	f	struct:point
+operator -	252.cpp	/^    point operator-(const point&b)const{return point(x-b.x,y-b.y);}$/;"	f	struct:point
+operator -	324.cpp	/^	matrix operator - (int n){$/;"	f	struct:matrix
+operator <	124.cpp	/^	bool operator < (const node & rhs) const{$/;"	f	struct:node
+operator <	252.cpp	/^    int operator <(const point&a)const{return (*this)*a>0||((*this)*a==0&&norm()<a.norm());}$/;"	f	struct:point
+operator <	54.cpp	/^	bool operator < (const card & rhs) const{$/;"	f	struct:card
+operator >	54.cpp	/^	bool operator > ( s & rhs) {$/;"	f	struct:s
+operator ^	324.cpp	/^	matrix operator ^ (int n){$/;"	f	struct:matrix
+out	252.cpp	/^    void out(){printf("x:%d y:%d\\n",x,y);}$/;"	f	struct:point
+p	129.cpp	/^vector<int> p = get_primes(2000000);$/;"	v
+p	204.cpp	/^vector<int> p = get_primes(100);$/;"	v
+p	231.cpp	/^vector<int> p = get_primes(20000000);$/;"	v
+p	315.cpp	/^vector<int> p = get_primes(20000000);$/;"	v
+p	35.cpp	/^vector<int> p = get_primes(1000000);$/;"	v
+p	46.cpp	/^vector<int> p = get_primes(1000000);$/;"	v
+p	47.cpp	/^vector<int> p = get_primes(10000000);$/;"	v
+p	516.cpp	/^unordered_set<LL> s,p;$/;"	v
+p	565.cpp	/^vector<int> p = get_primes(1e6);$/;"	v
+p	60.cpp	/^vector<int> p = get_primes(50000);$/;"	v
+p	603.cpp	/^vector<int> p = get_primes(20000000);$/;"	v
+p	60a.cpp	/^int p[1000001];  $/;"	v
+p	619.cpp	/^vector<int> p = get_primes(maxn);$/;"	v
+p	87.cpp	/^vector<int> p = get_primes(8000);$/;"	v
+p2	606.cpp	/^LL p2(LL a,LL b){$/;"	f
+p3	606.cpp	/^LL p3(LL x){$/;"	f
+p4	601.cpp	/^ll p4[40];$/;"	v
+pair	54.cpp	/^	int pair(){$/;"	f	struct:s
+phi	129.cpp	/^vector<int> phi = get_phi(2000000);$/;"	v
+phi	214.cpp	/^int phi[maxn];$/;"	v
+phi	243.cpp	/^int phi[maxn];$/;"	v
+phi	512.cpp	/^int phi[maxn];$/;"	v
+phi	531.cpp	/^vector<int> phi = get_phi(1005005);$/;"	v
+phi	69.cpp	/^void phi(){$/;"	f
+phi	70.cpp	/^void phi(){$/;"	f
+phi	72.cpp	/^void phi(){$/;"	f
+phi_table	214.cpp	/^void phi_table(int n){$/;"	f
+phi_table	243.cpp	/^void phi_table(int n){$/;"	f
+pi	607.cpp	/^const db pi = acos(-1);$/;"	v
+point	252.cpp	/^    point(){}$/;"	f	struct:point
+point	252.cpp	/^    point(int x,int y):x(x),y(y){}$/;"	f	struct:point
+point	252.cpp	/^struct point{$/;"	s	file:
+pr	439.cpp	/^int sz[N],sum[N],pr[N];$/;"	v
+pre	606.cpp	/^LL pre[maxn];$/;"	v
+pre	82.cpp	/^int pre[85],suf[85];$/;"	v
+prime	193.cpp	/^int prime[maxn],tot;$/;"	v
+prime	357.cpp	/^int prime[maxn],tot;$/;"	v
+prime	439.cpp	/^int prime[N],tot;$/;"	v
+prime	50.cpp	/^vector<int> prime = get_primes(1000);$/;"	v
+prime	501.cpp	/^int prime[maxn],tot = 0;$/;"	v
+prime	548.cpp	/^bool vis[maxn];int prime[maxn],tot;$/;"	v
+prime	549.cpp	/^int prime[maxn],tot = 0;$/;"	v
+prime	60.cpp	/^int prime[maxn];$/;"	v
+prime	606.cpp	/^long long prime[maxn],tot;$/;"	v
+prime	608.cpp	/^int prime[N],tot;$/;"	v
+prime	609.cpp	/^int prime[maxn],tot;$/;"	v
+primes	123.cpp	/^vector<int> primes = get_primes(1000000);$/;"	v
+primes	347.cpp	/^vector<int> primes = get_primes(maxn);$/;"	v
+primes	381.cpp	/^vector<int> primes = get_primes(100000000);$/;"	v
+primes	429.cpp	/^vector<int> primes = get_primes(2e8);$/;"	v
+primes	500.cpp	/^vector<int> primes = get_primes(1e8);$/;"	v
+primes	518.cpp	/^vector<int> primes;$/;"	v
+primes	593.cpp	/^vector<int> primes = get_primes(200000000);$/;"	v
+primes	618.cpp	/^vector<int> primes = get_primes(50000);$/;"	v
+print	55.cpp	/^	void print(){$/;"	f	struct:BigInteger
+pushup	593.cpp	/^void pushup(int o){$/;"	f
+q	336.cpp	/^queue<string> q;$/;"	v
+q	37.cpp	/^queue<int> q;$/;"	v
+q	485.cpp	/^int q[maxn];$/;"	v
+qpow	119/src/Main.java	/^    BigInteger qpow(BigInteger a,int n){$/;"	m	class:Main
+qpow	129.cpp	/^LL qpow(LL a,LL n,LL p){$/;"	f
+qpow	271.cpp	/^LL qpow(LL a,LL n,LL mod){$/;"	f
+qpow	365.cpp	/^LL qpow(LL a,LL n,int p){$/;"	f
+qpow	429.cpp	/^LL qpow(LL a,LL m){$/;"	f
+qpow	48.cpp	/^LL qpow(LL a,LL b){$/;"	f
+qpow	531.cpp	/^int qpow(int a,int n,int mod){$/;"	f
+qpow	565.cpp	/^int qpow(int a,int n){$/;"	f
+qpow	593.cpp	/^int qpow(int a,int n){$/;"	f
+qpow	603.cpp	/^LL qpow(LL a,LL n){$/;"	f
+qpow	608.cpp	/^int qpow(int a,int n){$/;"	f
+qpow	619.cpp	/^int qpow(int a,int n){$/;"	f
+qpow	63/src/Main.java	/^    static BigInteger qpow(int a,int n){$/;"	m	class:Main
+qpow	97/src/Main.java	/^    static BigInteger qpow(int a,int n){$/;"	m	class:Main
+query	593.cpp	/^int query(int o,int l,int r,int k){$/;"	f
+r	565.cpp	/^vector<int> r;$/;"	v
+rad	124.cpp	/^   	int rad;	$/;"	m	struct:node	file:
+read	54.cpp	/^	void read(){$/;"	f	struct:card
+read	54.cpp	/^	void read(){$/;"	f	struct:s
+replace	89.cpp	/^void replace(string a,string b){$/;"	f
+res	608.cpp	/^int res;$/;"	v
+rev	145.cpp	/^int rev(int n){$/;"	f
+rson	593.cpp	/^#define rson /;"	d	file:
+s	107.cpp	/^char s[1000000];$/;"	v
+s	204.cpp	/^set<long long> s;$/;"	v
+s	313.cpp	/^int s[maxn][maxn][2];$/;"	v
+s	336.cpp	/^string s[1000005];$/;"	v
+s	516.cpp	/^unordered_set<LL> s,p;$/;"	v
+s	54.cpp	/^struct s{$/;"	s	file:
+s	549.cpp	/^int s[maxn];$/;"	v
+s	593.cpp	/^int s[maxn];$/;"	v
+s	603.cpp	/^int s[10000005];$/;"	v
+s	611.cpp	/^unordered_set<LL> s;$/;"	v
+s	86.cpp	/^set<pair<int,int> > s;$/;"	v
+s	87.cpp	/^set<int> s;$/;"	v
+s2	593.cpp	/^int s2[maxn];$/;"	v
+scan	252.cpp	/^int scan(int tot)$/;"	f
+sg	400.cpp	/^int sg[maxn];$/;"	v
+sg	509.cpp	/^int sg[maxn];$/;"	v
+sigma	439.cpp	/^map<LL,int> sigma;$/;"	v
+sigma	608.cpp	/^map<LL,int> sigma;$/;"	v
+size	608.cpp	/^int size[N];$/;"	v
+solve	191.cpp	/^LL solve(int n){$/;"	f
+solve	221.py	/^    def solve(self):$/;"	m	class:Problem
+solve	231.cpp	/^LL solve(LL n,LL m){$/;"	f
+solve	252.cpp	/^int solve(){$/;"	f
+solve	281/src/Main.java	/^    static BigInteger solve(int m,int n){$/;"	m	class:Main
+solve	315.cpp	/^long long solve(int n){$/;"	f
+solve	429.cpp	/^LL solve(LL n){$/;"	f
+solve	439.cpp	/^int solve(LL M){$/;"	f
+solve	548.cpp	/^void solve(vector<int> v){$/;"	f
+solve	603.cpp	/^void solve(LL n,LL m){$/;"	f
+solve	606.cpp	/^LL solve(LL n){$/;"	f
+solve	83.cpp	/^void solve(){$/;"	f
+sqr	46.cpp	/^map<int,bool> sqr;$/;"	v
+sqr	606.cpp	/^LL sqr(LL a){$/;"	f
+sqr	91.cpp	/^int sqr(int a){$/;"	f
+src	252.cpp	/^point src[maxn];$/;"	v
+ss	86.cpp	/^set<pair<int,pair<int,int> > > ss;$/;"	v
+str	96.cpp	/^char str[10][10];$/;"	v
+straight	54.cpp	/^	bool straight(){$/;"	f	struct:s
+strong	387.cpp	/^unordered_map<LL,int> harsh,strong,sum;$/;"	v
+suf	82.cpp	/^int pre[85],suf[85];$/;"	v
+sum	365.cpp	/^LL sum(int i,int j,int k){$/;"	f
+sum	387.cpp	/^unordered_map<LL,int> harsh,strong,sum;$/;"	v
+sum	401.cpp	/^LL sum(LL x){$/;"	f
+sum	439.cpp	/^int sz[N],sum[N],pr[N];$/;"	v
+sum	501.cpp	/^int sum[maxn];$/;"	v
+sum	609.cpp	/^int sum[maxn];$/;"	v
+sys	221.py	/^import sys$/;"	i
+sz	31.cpp	/^int sz[8] = {1,2,5,10,20,50,100,200};$/;"	v
+sz	439.cpp	/^int sz[N],sum[N],pr[N];$/;"	v
+sz	608.cpp	/^int sz[N];$/;"	v
+three	54.cpp	/^	int three(){$/;"	f	struct:s
+times	608.cpp	/^int times[205];$/;"	v
+to	74.cpp	/^int to(int n){$/;"	f
+tot	148.cpp	/^int digit[40],tot;$/;"	v
+tot	193.cpp	/^int prime[maxn],tot;$/;"	v
+tot	336.cpp	/^int tot;$/;"	v
+tot	35.cpp	/^int d[10],tot;$/;"	v
+tot	357.cpp	/^int prime[maxn],tot;$/;"	v
+tot	439.cpp	/^int prime[N],tot;$/;"	v
+tot	501.cpp	/^int prime[maxn],tot = 0;$/;"	v
+tot	548.cpp	/^bool vis[maxn];int prime[maxn],tot;$/;"	v
+tot	549.cpp	/^int prime[maxn],tot = 0;$/;"	v
+tot	55.cpp	/^	int a[100],tot;$/;"	m	struct:BigInteger	file:
+tot	59.cpp	/^int a[10000],tot;$/;"	v
+tot	60.cpp	/^int tot = 0;$/;"	v
+tot	603.cpp	/^int tot = 0;$/;"	v
+tot	606.cpp	/^long long prime[maxn],tot;$/;"	v
+tot	608.cpp	/^int prime[N],tot;$/;"	v
+tot	609.cpp	/^int prime[maxn],tot;$/;"	v
+tot	612.cpp	/^int a[20],tot = 0;$/;"	v
+tran	315.cpp	/^int tran(int a1[10],int b1[10]){$/;"	f
+type	54.cpp	/^	int type(){$/;"	f	struct:s
+u	439.cpp	/^map<LL,int> u;$/;"	v
+upd	439.cpp	/^inline void upd(int &a,int b){$/;"	f
+upd	606.cpp	/^void upd(LL &a,LL b){$/;"	f
+upd	608.cpp	/^void upd(int &a,int b){$/;"	f
+upd	618.cpp	/^void upd(int &a,int b){$/;"	f
+update	593.cpp	/^void update(int o,int l,int r,int p,int k){$/;"	f
+v	516.cpp	/^vector<LL> v;$/;"	v
+v	593.cpp	/^int v[N << 2];$/;"	v
+v	68.cpp	/^bool v[15];$/;"	v
+v1	516.cpp	/^vector<LL> v1;$/;"	v
+val	54.cpp	/^	int val(){$/;"	f	struct:s
+vis	107.cpp	/^bool vis[40];$/;"	v
+vis	121.cpp	/^bool vis[maxn];$/;"	v
+vis	193.cpp	/^bool vis[maxn];$/;"	v
+vis	225.cpp	/^map<pair<int,pair<int,int> > ,bool> vis;$/;"	v
+vis	243/src/Main.java	/^    static int[] vis = new int[1000005];$/;"	f	class:Main
+vis	313.cpp	/^bool vis[maxn];$/;"	v
+vis	35.cpp	/^unordered_map<int,bool> vis;$/;"	v
+vis	357.cpp	/^bool vis[maxn];$/;"	v
+vis	439.cpp	/^bool vis[N];$/;"	v
+vis	501.cpp	/^bool vis[maxn];$/;"	v
+vis	504.cpp	/^bool vis[10000005];$/;"	v
+vis	518.cpp	/^bool vis[maxn];$/;"	v
+vis	548.cpp	/^bool vis[maxn];int prime[maxn],tot;$/;"	v
+vis	549.cpp	/^bool vis[maxn];$/;"	v
+vis	60.cpp	/^bool vis[maxn];$/;"	v
+vis	606.cpp	/^bool vis[maxn];$/;"	v
+vis	608.cpp	/^bool vis[N];$/;"	v
+vis	609.cpp	/^int vis[maxn];$/;"	v
+vis	69.cpp	/^bool vis[maxn];$/;"	v
+vis	70.cpp	/^bool vis[maxn];$/;"	v
+vis	72.cpp	/^bool vis[maxn];$/;"	v
+vis	80/src/Main.java	/^    static Boolean[] vis = new Boolean[105];$/;"	f	class:Main
+vis	96.cpp	/^bool vis[10];$/;"	v
+vr	501.cpp	/^vector<LL> vr;$/;"	v
+vr	606.cpp	/^vector<LL> vr;$/;"	v
+vr	P10.cpp	/^vector<LL> vr;$/;"	v
+work	162.cpp	/^void work(){$/;"	f
+x	100.cpp	/^LL x[105],y[105];$/;"	v
+x	102.cpp	/^int x[3],y[3];$/;"	v
+x	252.cpp	/^    int x,y;$/;"	m	struct:point	file:
+x	491.cpp	/^int x[10][2];$/;"	v
+x	65/src/Main.java	/^    static BigInteger[] x = new BigInteger[205],y = new BigInteger[205];$/;"	f	class:Main
+x	P501/P501/main.cpp	/^int x[N];$/;"	v
+y	100.cpp	/^LL x[105],y[105];$/;"	v
+y	102.cpp	/^int x[3],y[3];$/;"	v
+y	252.cpp	/^    int x,y;$/;"	m	struct:point	file:
+y	65/src/Main.java	/^    static BigInteger[] x = new BigInteger[205],y = new BigInteger[205];$/;"	f	class:Main
